@@ -7,13 +7,11 @@ I’m currently building my skills in programming, data analysis, and problem-so
 
 ## 🚀 Skills
 
-- **Languages:** Python, C  
-- **Tools:** Excel  
-- **Core Interests:**  
-  - Data Analytics  
-  - Data Visualization  
-  - Problem Solving  
-  - Learning real-world data applications  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
+ 
 
 ---
 
