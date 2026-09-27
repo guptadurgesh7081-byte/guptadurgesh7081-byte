@@ -105,14 +105,12 @@ More projects will be added as I continue learning and exploring real-world data
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptadurgesh7081-byte&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptadurgesh7081-byte&theme=dark&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/guptadurgesh7081-byte">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
