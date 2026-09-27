@@ -117,14 +117,4 @@ More projects will be added as I continue learning and exploring real-world data
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/guptadurgesh7081-byte">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
 ⭐ **Learning never stops — every dataset has a story to tell.**
